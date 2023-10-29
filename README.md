@@ -11,3 +11,5 @@ Launch order:
 doom_gpt_memory_descr.ipynb does not contain full RL cycle. If you need to learn, you should launch (2) and (3).
 
 You can launch result gpt not in Doom an learn it not in Doom. This requires updating of doom_gpt_memory_descr.ipynb file. You should connect another environment.
+
+You can test model in answer_question.ipynb (use images and generate images too). Be careful, it is not main mode, system is stupid.
