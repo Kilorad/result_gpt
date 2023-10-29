@@ -1,0 +1,5 @@
+<IN><<2YYBfaq.jpg>> description:<OUT>doom 2016, machinegun in hands, mancubus ahead<END>
+<IN><<50299867.jpg>> description:<OUT>doom 2016, plasmagun in hands, lava ahead<END>
+<IN><<a1.png>> description:<OUT>white field, red circle at center<END>
+<IN><<doom-eternal-2020.03.20-07.55.18.02_trim_dvd.original.jpg>> description:<OUT>doom eternal, shotgun in hands, arachnotron ahead, fireball ahead<END>
+<IN><<SlzvQI.png>> description:<OUT>doom1, pistol in hands, imp at right, medikit ahead, armor bonus ahead<END>
