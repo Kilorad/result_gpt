@@ -9,3 +9,5 @@ Launch order:
 4) Launch gpt in doom by doom_gpt_memory_descr.ipynb
 
 doom_gpt_memory_descr.ipynb does not contain full RL cycle. If you need to learn, you should launch (2) and (3).
+
+You can launch result gpt not in Doom an learn it not in Doom. This requires updating of doom_gpt_memory_descr.ipynb file. You should connect another environment.
